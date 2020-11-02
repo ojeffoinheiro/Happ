@@ -63,22 +63,6 @@ This project was developed with the following technologies:
 - [Multer](https://www.npmjs.com/package/multer)
 - [Yup](https://www.npmjs.com/package/yup)
 </details>
-Frontend Web
-
-
-Frontend Mobile
-
-
-Backend
-- [NodeJS](https://nodejs.org/)
-- [Express](https://expressjs.com/pt-br/)
-- [Typescript](https://typescriptlang.org/)
-- [TypeORM](https://typeorm.io#/)
-- [Postgres](https://www.postgresql.org)
-- [Docker](https://www.docker.com)
-- [Multer](https://www.npmjs.com/package/multer)
-- [Yup](https://www.npmjs.com/package/yup)
-
 ---
 
 
