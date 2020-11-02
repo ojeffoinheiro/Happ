@@ -12,7 +12,7 @@
 [![npm](https://img.shields.io/badge/node-v12.18.3-725dba)](https://www.npmjs.com/package/@unform/core)<space><space>
 </div>
 
-<h2 align="center">Overview 📖</h2>
+# Overview 📖
  <p>
   The application <strong>Happy</strong> was developed during Next Level Week # 3 - OmniStack trail - offered by Rocketseat
 In order to connect institutions that welcome children to people who wish to visit these places. In order to provide moments of unique felcidides for both.
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 ---
 
 
-<h2 align="center">Notion Files 📋</h2>
+# Notion Files 📋
 
 - [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
 - [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
@@ -42,9 +42,8 @@ This project was developed with the following technologies:
 
 ---
 
-## Preview 👀
-
-### Web 💻
+# Preview 👀
+## Web 💻
 <p>
   <img src="./assets/happy-template-web1.png" alt="Happy Web" width="90%">
   <img src="./assets/happy-template-web2.png" alt="Happy Web" width="400px">
@@ -52,7 +51,7 @@ This project was developed with the following technologies:
   <img src="./assets/happy-template-web4.png" alt="Happy Web" width="400px">
 </p>
 
-### Mobile 📱
+## Mobile 📱
 <p>
   <img src="./assets/mobile01.jpeg" alt="Happy Mobile map" width="200px">
   <img src="./assets/mobile02.jpeg" alt="Happy Mobile map 2" width="200px">
@@ -63,8 +62,7 @@ This project was developed with the following technologies:
 
 ---
 
-<h2 align="center">Layout 🎨</h2>
-
+# Layout 🎨
    <p align="center">
       The Layout was developed by Rocketseat, and you can access it on Figma:
       
