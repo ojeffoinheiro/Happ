@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Take happiness to the world 😊
+    Take happiness to the world :smile:
 </h3>
 
 <div align="center">
@@ -19,31 +19,80 @@ In order to connect institutions that welcome children to people who wish to vis
   </p>
   
   <h4 align="center"> 
-	🚧 Version 2.0 in development 🚧
+	:construction: Version 2.0 in development :construction:
 </h4>
 
 # Technologies :computer:
 This project was developed with the following technologies:
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+<details>
+  <summary>Frontend Web</summary>
+
+- [ReactJS](https://pt-br.reactjs.org)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Leaflet](https://leafletjs.com)
+- [React Leaflet](https://react-leaflet.js.org)
+- [Toastify](https://www.npmjs.com/package/react-toastify)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Typescript](typescriptlang.org/)
+- [React Router](https://reactrouter.com/)
+</details>
+
+<details>
+  <summary>Frontend Mobile</summary>
+
+- [React Native](https://reactnative.dev)
+- [Expo](https://expo.io)
+- [React Navigation](https://reactnavigation.org)
+- [Typescript](typescriptlang.org/)
+- [Styled Components](styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Native Maps](https://github.com/react-native-maps/react-native-maps)
+</details>
+
+<details>
+  <summary>Backend</summary>
+
+- [NodeJS](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://typescriptlang.org/)
+- [TypeORM](https://typeorm.io#/)
+- [Postgres](https://www.postgresql.org)
+- [Docker](https://www.docker.com)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Yup](https://www.npmjs.com/package/yup)
+</details>
+Frontend Web
+
+
+Frontend Mobile
+
+
+Backend
+- [NodeJS](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Typescript](https://typescriptlang.org/)
+- [TypeORM](https://typeorm.io#/)
+- [Postgres](https://www.postgresql.org)
+- [Docker](https://www.docker.com)
+- [Multer](https://www.npmjs.com/package/multer)
+- [Yup](https://www.npmjs.com/package/yup)
 
 ---
 
 
-# Notion Files 📋
+# Notion Files :clipboard:
 
-- [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
-- [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
+- [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) :rocket:
+- [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) :coffee:
 - [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
 - [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
 
 ---
 
-# Preview 👀
-## Web 💻
+# Preview :eye:
+## Web :desktop_computer:
 <p>
   <img src="./assets/happy-template-web1.png" alt="Happy Web" width="90%">
   <img src="./assets/happy-template-web2.png" alt="Happy Web" width="400px">
@@ -51,7 +100,7 @@ This project was developed with the following technologies:
   <img src="./assets/happy-template-web4.png" alt="Happy Web" width="400px">
 </p>
 
-## Mobile 📱
+## Mobile :iphone:
 <p>
   <img src="./assets/mobile01.jpeg" alt="Happy Mobile map" width="200px">
   <img src="./assets/mobile02.jpeg" alt="Happy Mobile map 2" width="200px">
@@ -66,26 +115,26 @@ This project was developed with the following technologies:
    <p align="center">
       The Layout was developed by Rocketseat, and you can access it on Figma:
       
-   - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
-   - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
+   - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> :desktop_computer:
+   - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> :iphone:
    </p>
 
 ---
 
 
-# Run the Happy 💻
+# How to use :memo:
 ## Precondition :white_flag:
 You should have:
 
 - NodeJS
 - Package manager (NPM ou Yarn)
 
-## 💻 Cloning the repository
+## Clone this repository
 
 ```bash
 $ git clone https://github.com/ojeffoinheiro/Happy
 ```
-## 💻 Cloning o Happy web
+## Run on web :computer:
 
 Entre na pasta
 
@@ -119,7 +168,7 @@ ter este trabalho, sem problemas, basta comentar a linha de código do mapbox, e
 
 ---
 
-# 🗺 Mapbox
+# Mapbox :world_map:
 
 Siga as instruções para usar o mapbox no lugar do openstreetmap.
 
@@ -131,7 +180,7 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
 
 ---
 
-## 🌐 Rodando o Servidor
+## Rodando o Servidor 🌐
 
 Entre na pasta
 
