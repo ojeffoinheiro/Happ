@@ -12,7 +12,7 @@
 [![npm](https://img.shields.io/badge/node-v12.18.3-725dba)](https://www.npmjs.com/package/@unform/core)<space><space>
 </div>
 
-# Overview 📖
+# Overview :book:
  <p>
   The application <strong>Happy</strong> was developed during Next Level Week # 3 - OmniStack trail - offered by Rocketseat
 In order to connect institutions that welcome children to people who wish to visit these places. In order to provide moments of unique felcidides for both.
@@ -73,9 +73,10 @@ This project was developed with the following technologies:
 ---
 
 
-# 💻 Run the Happy
-## Precondition
-You have installed in your PC:
+# Run the Happy 💻
+## Precondition :white_flag:
+You should have:
+
 - NodeJS
 - Package manager (NPM ou Yarn)
 
