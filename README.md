@@ -106,7 +106,7 @@ This project was developed with the following technologies:
 ---
 
 
-# 🍃 Rotas
+# 🍃 Routes
 
 - Servidor http://localhost:3333
 - Web http://localhost:3000
@@ -116,13 +116,13 @@ This project was developed with the following technologies:
 
 # Mapbox :world_map:
 
-Siga as instruções para usar o mapbox no lugar do openstreetmap.
+Follow the instructions to use the mapbox instead of openstreetmap.
 
-- Em "https://account.mapbox.com/", copie seu token.
-- Na raiz do projeto web crie um arquivo chamado ".env"
-- Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
+- At "https://account.mapbox.com/", copy your token;
+- At the root of the web project create a file called ".env";
+- Inside this file, type "REACT_APP_MAPBOX_TOKEN =" and paste your token right after;
 
-Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na página do mapa. 😄
+If you did everything correctly, you are using the mapbox API with your Token on the map page. :smile:
 
 ---
 # How to use :fire:
