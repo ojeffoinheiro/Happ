@@ -96,7 +96,7 @@ This project was developed with the following technologies:
 ---
 
 # Layout 🎨
-   <p align="center">
+   <p>
       The Layout was developed by Rocketseat, and you can access it on Figma:
       
    - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> :desktop_computer:
@@ -124,115 +124,100 @@ Follow the instructions to use the mapbox instead of openstreetmap.
 
 If you did everything correctly, you are using the mapbox API with your Token on the map page. :smile:
 
+If you have an account at [mapbox] (https://www.mapbox.com/), you can use your token to use the application map. However, if you don't want to have this job, no problem, just comment the line of code in the mapbox, and uncomment the line of code from [openstreetmap] (https://www.openstreetmap.org/).
+
 ---
 # How to use :fire:
-<h2> Precondition :white_flag:</h2>
+## Precondition :white_flag:
 You should have:
 
 - NodeJS
 - Package manager (NPM ou Yarn)
 
-<h2>Clone this repository</h2>
+## Clone this repository
 
 ```bash
 $ git clone https://github.com/ojeffoinheiro/Happy
 ```
-## Run on web :computer:
 
-Entre na pasta
-
-```bash
-$ cd web
-```
-Instale as dependências
+## Enter on source
 
 ```bash
-$ yarn
-# ou, caso use npm
-$ npm install
+$ cd happy
 ```
 
-Rode a aplicação
+## Install the dependencies
 
 ```bash
-$ yarn start
-# ou, caso use npm
-$ npm start
+cd backend && yarn install
+cd web && yarn install
+cd mobile && yarn install
 ```
 
-Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
-ter este trabalho, sem problemas, basta comentar a linha de código do mapbox, e descomentar a linha de código do [openstreetmap](https://www.openstreetmap.org/).
 
+## Running the Server 🌐
 
-## Rodando o Servidor 🌐
-
-Entre na pasta
+Enter on folder
 
 ```bash
 $ cd backend
 ```
-Instale as dependências
 
-```bash
-$ yarn
-# ou, caso use npm
-$ npm install
-```
-
-Rode o servidor
+Run the server
 
 ```bash
 $ yarn dev
-# ou, caso use npm
-$ npm dev
 ```
 
-## 📱 Rodando o Happy mobile 
+
+## Run on web :computer:
+
+Enter on folder
+
+```bash
+$ cd web
+```
+
+Run the application
+
+```bash
+$ yarn start
+```
+
+## Run on mobile :iphone:
 
 Entre na pasta
 
 ```bash
 $ cd mobile
 ```
-Instale as dependências
 
-```bash
-$ yarn
-# ou, caso use npm
-$ npm install
-```
-
-Rode o mobile
-
+Run the application
 ```bash
 $ yarn start
-# ou, caso use npm
-$ npm start
 ```
 
-Após a instalação das dependências e ter iniciado a aplicação mobile abrirá a página do expo.
+After installing the premises and having started the mobile application, the expo page will open.
 
-### 1 - Emulador Android
- Na página do metro bundler, clique em "Run on Android device/emulator" e espere carregar. Tenha em mente que é necessário ter passado pelo processo de instalação
- do android sdk, etc.
+### 1 - Android Emulador 
+ On the metro bundler page, click on "Run on Android device / emulator" and wait to load. Keep in mind that you must have gone through the installation process android sdk, etc.
 
-### 2 - Emulador IOS
- Na página do metro bundler, clique em "Run on iOS simulator" e espere carregar.
+### 2 - IOS Emulador 
+ On the metro bundler page, click on "Run on iOS simulator" and wait to load.
 
-### 3 - Seu smartphone
- Baixe o aplicativo do Expo:
+### 3 - On your smartphone
+ Download the Expo app:
   - [iOS](https://itunes.apple.com/app/apple-store/id982107779)
   - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
 
- Depois de baixar, volte a página do metro bundler e escaneie o QR Code com o app do Expo.
+ After downloading, go back to the metro bundler page and scan the QR Code with the Expo app.
 
 ---
 
-# Como contribuir ⚙️
-
-- Faça um fork desse repositório;
-- Crie uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+# How to contribute :gear:
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
 ---
