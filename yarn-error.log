@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add *
+
+PATH: 
+  C:\Users\ojeffpinheiro\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ojeffpinheiro\bin;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\ojeffpinheiro\AppData\Local\Microsoft\WindowsApps;C:\Users\ojeffpinheiro\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ojeffpinheiro\AppData\Local\Android\Sdk\emulator;C:\Users\ojeffpinheiro\AppData\Local\Android\Sdk\tools;C:\Users\ojeffpinheiro\AppData\Local\Android\Sdk\tools\bin;C:\Users\ojeffpinheiro\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\PostgreSQL\12\bin;C:\Users\ojeffpinheiro\AppData\Local\GitHubDesktop\bin;C:\Users\ojeffpinheiro\AppData\Roaming\npm;C:\Users\ojeffpinheiro\AppData\Local\Microsoft\WindowsApps;C:\Users\ojeffpinheiro\AppData\Local\Yarn\bin;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/*: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66096:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140748:22)
+      at Request.emit (events.js:315:20)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141720:10)
+      at Request.emit (events.js:315:20)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141642:12)
+      at Object.onceWrapper (events.js:421:28)
+      at IncomingMessage.emit (events.js:327:22)
+      at endReadableNT (_stream_readable.js:1220:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
