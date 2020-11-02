@@ -32,10 +32,20 @@ This project was developed with the following technologies:
 
 ---
 
+
+<h2 align="center">Notion Files 📋</h2>
+
+- [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
+- [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
+- [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
+- [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
+
+---
+
 ## 🎨 Layout
 
 
-### Web
+### Web 💻
 
 <p>
   <img src="./assets/happy-template-web1.png" alt="Happy Web" width="400px">
@@ -44,7 +54,7 @@ This project was developed with the following technologies:
   <img src="./assets/happy-template-web4.png" alt="Happy Web" width="400px">
 </p>
 
-### Mobile
+### Mobile 📱
 
 <p>
   <img src="./assets/mobile01.jpeg" alt="Happy Mobile map" width="200px">
@@ -56,23 +66,6 @@ This project was developed with the following technologies:
 
 ---
 
-<h2 id="features-implementadas"> 🚧 Features implementadas da Versão 2.0 </h2>
-
-#### Web
-
-- Pagina de sucesso ao realizar o cadastro de novo orfanato
-- Pagina de login
-- Integração com a API do whatsapp
-
-- Em construção...
-
-#### Mobile
-
-- Integração com a API do whatsapp
-
-- Em construção...
-
----
 
 ## 🍃 Rotas
 
