@@ -40,7 +40,9 @@ This project was developed with the following technologies:
 <p>
   <img src="https://user-images.githubusercontent.com/60162736/97820995-71cb9300-1c8f-11eb-9e18-253a7232093e.png" alt="Happy Web" width="400px">
   <img src="https://user-images.githubusercontent.com/60162736/97821331-cf141400-1c90-11eb-9f7f-c1df292ecaca.png" alt="Happy Map" width="400px">
-  <img src="./assets/dados_web.png" alt="Happy Details" width="400px">
+	
+  <img src="https://user-images.githubusercontent.com/60162736/97821547-97599c00-1c91-11eb-8730-78ec729579e9.png" alt="Happy Details" width="400px">
+  <img src="https://user-images.githubusercontent.com/60162736/97821548-97f23280-1c91-11eb-86e4-db55986cb6c2.png" alt="Happy Details" width="400px">
 </p>
 
 ### Mobile
