@@ -106,14 +106,33 @@ This project was developed with the following technologies:
 ---
 
 
-# How to use :memo:
-## Precondition :white_flag:
+# 🍃 Rotas
+
+- Servidor http://localhost:3333
+- Web http://localhost:3000
+- Mobile(expo) http://localhost:19000
+
+---
+
+# Mapbox :world_map:
+
+Siga as instruções para usar o mapbox no lugar do openstreetmap.
+
+- Em "https://account.mapbox.com/", copie seu token.
+- Na raiz do projeto web crie um arquivo chamado ".env"
+- Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
+
+Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na página do mapa. 😄
+
+---
+# How to use :fire:
+<h2> Precondition :white_flag:</h2>
 You should have:
 
 - NodeJS
 - Package manager (NPM ou Yarn)
 
-## Clone this repository
+<h2>Clone this repository</h2>
 
 ```bash
 $ git clone https://github.com/ojeffoinheiro/Happy
@@ -144,25 +163,6 @@ $ npm start
 Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
 ter este trabalho, sem problemas, basta comentar a linha de código do mapbox, e descomentar a linha de código do [openstreetmap](https://www.openstreetmap.org/).
 
-# 🍃 Rotas
-
-- Servidor http://localhost:3333
-- Web http://localhost:3000
-- Mobile(expo) http://localhost:19000
-
----
-
-# Mapbox :world_map:
-
-Siga as instruções para usar o mapbox no lugar do openstreetmap.
-
-- Em "https://account.mapbox.com/", copie seu token.
-- Na raiz do projeto web crie um arquivo chamado ".env"
-- Dentro desse arquivo, digite "REACT_APP_MAPBOX_TOKEN =" e cole seu token logo depois.
-
-Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na página do mapa. 😄
-
----
 
 ## Rodando o Servidor 🌐
 
