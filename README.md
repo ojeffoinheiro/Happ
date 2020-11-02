@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Leve felicidade para o mundo 😊
+    Take happiness to the world 😊
 </h3>
 
 <div align="center">
