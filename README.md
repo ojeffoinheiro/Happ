@@ -22,7 +22,7 @@ In order to connect institutions that welcome children to people who wish to vis
 	🚧 Version 2.0 in development 🚧
 </h4>
 
-# :computer: Technologies
+# Technologies :computer:
 This project was developed with the following technologies:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -42,20 +42,17 @@ This project was developed with the following technologies:
 
 ---
 
-## 🎨 Layout
-
+## Preview 👀
 
 ### Web 💻
-
 <p>
-  <img src="./assets/happy-template-web1.png" alt="Happy Web" width="400px">
+  <img src="./assets/happy-template-web1.png" alt="Happy Web" width="90%">
   <img src="./assets/happy-template-web2.png" alt="Happy Web" width="400px">
   <img src="./assets/happy-template-web3.png" alt="Happy Web" width="400px">
   <img src="./assets/happy-template-web4.png" alt="Happy Web" width="400px">
 </p>
 
 ### Mobile 📱
-
 <p>
   <img src="./assets/mobile01.jpeg" alt="Happy Mobile map" width="200px">
   <img src="./assets/mobile02.jpeg" alt="Happy Mobile map 2" width="200px">
