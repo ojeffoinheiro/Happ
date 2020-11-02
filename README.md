@@ -5,5 +5,3 @@
   The application <strong>Happy</strong> was developed during Next Level Week # 3 - OmniStack trail - offered by Rocketseat
 In order to connect institutions that welcome children to people who wish to visit these places. In order to provide moments of unique felcidides for both.
   </p>
-# Happ
-App desenvolvido no NLW3
