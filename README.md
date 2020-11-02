@@ -73,21 +73,18 @@ This project was developed with the following technologies:
 ---
 
 
-# 💻 Executando o Happy
-
-## Pré-requisitos
-
-É necessário ter instalado na sua máquina para execução desse projeto:
+# 💻 Run the Happy
+## Precondition
+You have installed in your PC:
 - NodeJS
-- Gerenciador de pacotes (Npm ou Yarn)
+- Package manager (NPM ou Yarn)
 
-## 💻 Clonando o Repositório
+## 💻 Cloning the repository
 
 ```bash
-$ git clone https://github.com/Thiago-l/happy-nlw3.git
-# entre na pasta do projeto
+$ git clone https://github.com/ojeffoinheiro/Happy
 ```
-## 💻 Rodando o Happy web
+## 💻 Cloning o Happy web
 
 Entre na pasta
 
