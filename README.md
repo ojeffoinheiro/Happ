@@ -73,29 +73,21 @@ This project was developed with the following technologies:
 ---
 
 
-## 🍃 Rotas
+# 💻 Executando o Happy
 
-- Servidor http://localhost:3333
-- Web http://localhost:3000
-- Mobile(expo) http://localhost:19000
-
----
-
-## 💻 Executando o Happy
-
-### Pré-requisitos
+## Pré-requisitos
 
 É necessário ter instalado na sua máquina para execução desse projeto:
 - NodeJS
 - Gerenciador de pacotes (Npm ou Yarn)
 
-### 💻 Clonando o Repositório
+## 💻 Clonando o Repositório
 
 ```bash
 $ git clone https://github.com/Thiago-l/happy-nlw3.git
 # entre na pasta do projeto
 ```
-### 💻 Rodando o Happy web
+## 💻 Rodando o Happy web
 
 Entre na pasta
 
@@ -121,7 +113,15 @@ $ npm start
 Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
 ter este trabalho, sem problemas, basta comentar a linha de código do mapbox, e descomentar a linha de código do [openstreetmap](https://www.openstreetmap.org/).
 
-## 🗺 Mapbox
+# 🍃 Rotas
+
+- Servidor http://localhost:3333
+- Web http://localhost:3000
+- Mobile(expo) http://localhost:19000
+
+---
+
+# 🗺 Mapbox
 
 Siga as instruções para usar o mapbox no lugar do openstreetmap.
 
@@ -133,7 +133,7 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
 
 ---
 
-### 🌐 Rodando o Servidor
+## 🌐 Rodando o Servidor
 
 Entre na pasta
 
@@ -156,7 +156,7 @@ $ yarn dev
 $ npm dev
 ```
 
-### 📱 Rodando o Happy mobile 
+## 📱 Rodando o Happy mobile 
 
 Entre na pasta
 
@@ -181,14 +181,14 @@ $ npm start
 
 Após a instalação das dependências e ter iniciado a aplicação mobile abrirá a página do expo.
 
-#### 1 - Emulador Android
+### 1 - Emulador Android
  Na página do metro bundler, clique em "Run on Android device/emulator" e espere carregar. Tenha em mente que é necessário ter passado pelo processo de instalação
  do android sdk, etc.
 
-#### 2 - Emulador IOS
+### 2 - Emulador IOS
  Na página do metro bundler, clique em "Run on iOS simulator" e espere carregar.
 
-#### 3 - Seu smartphone
+### 3 - Seu smartphone
  Baixe o aplicativo do Expo:
   - [iOS](https://itunes.apple.com/app/apple-store/id982107779)
   - [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
@@ -197,7 +197,7 @@ Após a instalação das dependências e ter iniciado a aplicação mobile abrir
 
 ---
 
-<h2 id="como-contribuir"> ⚙️ Como contribuir </h2>
+# Como contribuir ⚙️
 
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: `git checkout -b minha-feature`;
