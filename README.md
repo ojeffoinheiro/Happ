@@ -19,5 +19,11 @@ In order to connect institutions that welcome children to people who wish to vis
   </p>
   
   <h4 align="center"> 
-	🚧 Versão 2.0 em desenvolvimento 🚧
+	🚧 Version 2.0 in development 🚧
 </h4>
+
+# :computer: Technologies
+<ul>
+ <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+  <li><a href="https://reactjs.org/">ReactJS</a></li>
+</ul>
