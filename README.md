@@ -47,12 +47,11 @@ This project was developed with the following technologies:
 ### Mobile
 
 <p>
-  <img src="./assets/mobile1.jpg" alt="Happy Mobile map"><br>
-  <img src="./assets/mobile5.jpg" alt="Happy Mobile map 2" width="200px">
-  <img src="./assets/mobile3.jpg" alt="Happy Mobile create" width="200px">
-  <img src="./assets/mobile4.jpg" alt="Happy Mobile create" width="200px">
-  <img src="./assets/mobile6.jpg" alt="Happy Mobile details" width="200px">
-  <img src="./assets/mobile7.jpg" alt="Happy Mobile details" width="200px"> 
+  <img src="./assets/mobile01.jpeg" alt="Happy Mobile map"><br>
+  <img src="./assets/mobile02.jpeg" alt="Happy Mobile map 2" width="200px">
+  <img src="./assets/mobile5.jpeg" alt="Happy Mobile create" width="200px">
+  <img src="./assets/mobile03.jpeg" alt="Happy Mobile details" width="200px">
+  <img src="./assets/mobile1.jpeg" alt="Happy Mobile details" width="200px"> 
 </p>
 
 ---
