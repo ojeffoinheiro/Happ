@@ -63,6 +63,17 @@ This project was developed with the following technologies:
 
 ---
 
+<h2 align="center">Layout 🎨</h2>
+
+   <p align="center">
+      The Layout was developed by Rocketseat, and you can access it on Figma:
+      
+   - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
+   - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
+   </p>
+
+---
+
 
 ## 🍃 Rotas
 
