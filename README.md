@@ -23,7 +23,12 @@ In order to connect institutions that welcome children to people who wish to vis
 </h4>
 
 # :computer: Technologies
-<ul>
- <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-  <li><a href="https://reactjs.org/">ReactJS</a></li>
-</ul>
+This project was developed with the following technologies:
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+---
+
